@@ -20,9 +20,9 @@
       "repo": "vllm-project/vllm-ascend",
       "ref": "main",
       "path": "recipes",
-      "sha": "ffecc5dfd0877be45d1bec408e6f748cb7d4f71b",
-      "tree_sha": "5eb6462bb69eaa2254edc971e6e5d88f59e58d56",
-      "resolved_at": "2026-11-23T01:16:31.871Z"
+      "sha": "75cd226f1e2990285c1947c2c2aad36fb182a648",
+      "tree_sha": "beb95aa7612c97f896ca5bda234175d281541d01",
+      "resolved_at": "2026-11-24T08:06:01.824Z"
     },
     "vllm-metal": {
       "repo": "vllm-project/vllm-metal",
